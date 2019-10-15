@@ -13,3 +13,6 @@
 ## Version
 * MySQL v14.14
 * mongoDB v3.6.0
+
+## 参考
+* https://wiki.ポケモン.com/wiki/ポケモン一覧
